@@ -121,13 +121,13 @@ Ces dates sont prévisionnelles. Pour toute confirmation ou modification éventu
 - inscription par un enseignant
 - numéro de candidat
 
-L'inscription se fait à travers un formulaire https://forms.gle/RSah1vLkJM2BrX5PA qui peut être rempli par :
+L'inscription se fait à travers un formulaire (cliquez ici pour remplir le formulaire https://forms.gle/RSah1vLkJM2BrX5PA) qui peut être rempli par :
 
 - Le candidat lui-même ;
 - Son parent ;
 - Son enseignant.
 
-Après l'inscription, un numéro de candidat est envoyé par courrier électronique à l'adresse indiquée lors de l'inscription.
+Après l'inscription sur ce lien https://forms.gle/RSah1vLkJM2BrX5PA, un numéro de candidat est envoyé par courrier électronique à l'adresse indiquée lors de l'inscription.
 
 1. [Retour au menu principal]()
 
@@ -142,7 +142,7 @@ Après l'inscription, un numéro de candidat est envoyé par courrier électroni
 - contribution financière
 - payer pour participer
 
-L'inscription au championnat est gratuite. L'accès aux sujets est également gratuit.
+L'inscription au championnat est gratuite sur https://forms.gle/RSah1vLkJM2BrX5PA. L'accès aux sujets est également gratuit.
 
 Une contribution est toutefois demandée pour obtenir les résultats et la correction :
 
