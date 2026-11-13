@@ -195,7 +195,7 @@ Le sujet est subdivisé en plusieurs parties. Chaque partie est accessible à tr
 
 Chaque partie dispose d'une durée déterminée. À la fin de cette durée, l'accès à l'énoncé correspondant se ferme.
 
-Après la dernière partie, le candidat dispose de **5 minutes** pour photographier sa copie, y compris ses brouillons placés à la fin, et envoyer les photographies au numéro suivant :
+Après chaque partie, le candidat dispose de **5 minutes** pour photographier sa copie, y compris ses brouillons placés à la fin, et envoyer les photographies au numéro suivant :
 
 **97551059**
 
