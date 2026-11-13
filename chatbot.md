@@ -121,7 +121,7 @@ Ces dates sont prévisionnelles. Pour toute confirmation ou modification éventu
 - inscription par un enseignant
 - numéro de candidat
 
-L'inscription se fait à travers un formulaire qui peut être rempli par :
+L'inscription se fait à travers un formulaire https://forms.gle/RSah1vLkJM2BrX5PA qui peut être rempli par :
 
 - Le candidat lui-même ;
 - Son parent ;
